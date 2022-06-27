@@ -1,4 +1,4 @@
-# NestJS GraphQL API
+# NestJS RESTful API
 
 ## Overview
 
